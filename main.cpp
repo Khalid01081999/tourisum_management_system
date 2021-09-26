@@ -19,6 +19,7 @@ struct order
       float price1,dis1;
 }o1[50];
 int orderk=0;
+
 void mainMenu();
 int Login();
 void write_customer1();
